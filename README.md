@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saumyen</h1>
 <h3 align="center">A passionate Django Developer | MERN Stack Developer | ML Enthusiast</h3>
 
-- 🔭 I’m currently working on **Final Year Project based on ML**
+- 🔭 I’m currently working on **Final Year Project based on Computer Vision**
 
 - 🌱 I’m currently learning **Complex Machine Learning models**
 
